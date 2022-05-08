@@ -118,7 +118,6 @@ namespace ConsoleApp1
                         }
                         break;
                 }
-
                     Console.WriteLine("Босс ударил вас");
                     playerHealth -= bossDamage;
 
